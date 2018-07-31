@@ -11,3 +11,5 @@ All files comparing terms from each database are located in `terms`, scripts req
 #### BrainMap Decoding
 1. BMA_ImageSearch.m
 2. BMA_ForRevInf.m
+<br>
+Run `decoding_comparison.ipynb` to compare results of decoding. Due to the format of BrainMap's decoding output, significant CogPO terms must be typed in manually.
