@@ -1,6 +1,6 @@
 # ns-v-bm-decoding
 ### Description
-All code necessary to reproduce the analyses run for a poster presented at INCF's Neuroinformatics 2018 meeting, entitled _Quantitative comparison of functional decoding approaches across meta-analytic frameworks_, comparing lexicons and functional decoding results from [BrainMap.org](http://http://brainmap.org/ "BrainMap")<sup>1,2</sup> and [Neurosynth.org](http://neurosynth.org)<sup>3</sup>.
+All code necessary to reproduce the analyses run for a poster presented at INCF's Neuroinformatics 2018 meeting, entitled [_Quantitative comparison of functional decoding approaches across meta-analytic frameworks_](http://dx.doi.org/10.7490/f1000research.1115906.1 "doi: 10.7490/f1000research.1115906.1"), comparing lexicons and functional decoding results from [BrainMap.org](http://http://brainmap.org/ "BrainMap")<sup>1,2</sup> and [Neurosynth.org](http://neurosynth.org)<sup>3</sup>.
 ### Installation
 No installation necessary, Python code was written in 2.7.13 because I'm stubborn and didn't want to update to Python 3. Requires `numpy`, `pandas`, `scipy`, `seaborn`, and `neurosynth` to recreate python analyses and figures. Regrettably, recreating BrainMap-style functional decoding depends on `MATLAB`.
 ### Usage
